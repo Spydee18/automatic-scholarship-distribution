@@ -1,4 +1,5 @@
 # Scholarship Distribution Smart Contract
+<img width="332" alt="image" src="https://github.com/user-attachments/assets/c69e472c-53e7-4255-b494-6583e51636af">
 
 ## Vision
 The Scholarship Distribution Smart Contract is designed to facilitate transparent, secure, and automated distribution of scholarship funds to eligible students. By leveraging blockchain technology, the contract ensures that scholarships are allocated fairly based on predefined criteria, reducing administrative overhead and eliminating the possibility of fraud.
@@ -29,6 +30,8 @@ The Scholarship Distribution Smart Contract is designed to facilitate transparen
 ## Contract Address
 - **Network:** Ethereum Mainnet/Testnet
 - **Contract Address:** 0xfb4f18cbdc09ee040f8eed611397bda04428e6ac
+- <img width="598" alt="image" src="https://github.com/user-attachments/assets/7afe1d9f-5dee-401c-9ed8-3a342d9e6f9b">
+
 
 ## Deployment Instructions
 1. Deploy the contract on the Ethereum blockchain using a development environment like Remix or Hardhat.
