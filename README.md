@@ -28,7 +28,7 @@ The Scholarship Distribution Smart Contract is designed to facilitate transparen
 ```
 
 ## Contract Address
-- **Network:** Ethereum Mainnet/Testnet
+- **Network:** EDU CHAIN
 - **Contract Address:** 0xfb4f18cbdc09ee040f8eed611397bda04428e6ac
 - <img width="598" alt="image" src="https://github.com/user-attachments/assets/7afe1d9f-5dee-401c-9ed8-3a342d9e6f9b">
 
